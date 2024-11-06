@@ -40,3 +40,8 @@ To run this project, you'll need the following Python libraries:
 4. **Interactive Score Prediction**
    - Use `ipywidgets` to create an interactive form for user inputs.
    - Make predictions based on selected venue, teams, striker, and bowler.
+
+## Output:
+<img width="276" alt="image" src="https://github.com/user-attachments/assets/b7bcb829-2864-4c1d-bd05-615855ba20cb">
+
+     
